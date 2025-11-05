@@ -1,0 +1,187 @@
+{
+  "title": "CSB汎用ワールド",
+  "id": "csb-universal",
+  "system": "custom-system-builder",
+  "description": "<p>「Custom System Builder」「BCDice for Foundry VTT」を使用した汎用ワールド</p>",
+  "joinTheme": "default",
+  "authors": [
+    {
+      "name": "Jean.N"
+    }
+  ],
+  "url": "https://github.com/jeannjeann/csb-universal-fvtt",
+  "readme": "README.md",
+  "version": "12.1.0.0",
+  "coreVersion": "12.343",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343",
+    "maximum": "12"
+  },
+  "systemVersion": "4.8.5",
+  "relationships": {
+    "requires": [
+      {
+        "id": "custom-system-builder",
+        "type": "system"
+      },
+      {
+        "id": "csb-universal-compendium",
+        "type": "module",
+        "manifest": "https://github.com/jeannjeann/csb-universal-compendium-fvtt/releases/latest/download/module.json"
+      },
+      {
+        "id": "foundryVTTja",
+        "type": "module"
+      },
+      {
+        "id": "fvtt-bcdice-addon",
+        "type": "module"
+      },
+      {
+        "id": "_chatcommands",
+        "type": "module"
+      },
+      {
+        "id": "color-picker",
+        "type": "module"
+      },
+      {
+        "id": "inlinewebviewer",
+        "type": "module"
+      },
+      {
+        "id": "colorsettings",
+        "type": "module"
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      },
+      {
+        "id": "lib-dfreds-ui-extender",
+        "type": "module"
+      },
+      {
+        "id": "socketlib",
+        "type": "module"
+      }
+    ],
+    "recommends": [
+      {
+        "id": "advanced-macros",
+        "type": "module"
+      },
+      {
+        "id": "card-tokens",
+        "type": "module"
+      },
+      {
+        "id": "CautiousGamemastersPack",
+        "type": "module"
+      },
+      {
+        "id": "chatedit",
+        "type": "module"
+      },
+      {
+        "id": "combat-enhancements",
+        "type": "module"
+      },
+      {
+        "id": "cutin-manager",
+        "type": "module"
+      },
+      {
+        "id": "dfreds-convenient-effects",
+        "type": "module"
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module"
+      },
+      {
+        "id": "hand-mini-bar",
+        "type": "module"
+      },
+      {
+        "id": "illandril-chat-enhancements",
+        "type": "module"
+      },
+      {
+        "id": "illandril-token-tooltips",
+        "type": "module"
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module"
+      },
+      {
+        "id": "multiple-chat-tabs",
+        "type": "module"
+      },
+      {
+        "id": "multiple-document-selection",
+        "type": "module"
+      },
+      {
+        "id": "pdf-pager",
+        "type": "module"
+      },
+      {
+        "id": "permission_viewer",
+        "type": "module"
+      },
+      {
+        "id": "pin-cushion",
+        "type": "module"
+      },
+      {
+        "id": "quick-app-scale",
+        "type": "module"
+      },
+      {
+        "id": "sequencer",
+        "type": "module"
+      },
+      {
+        "id": "share-media",
+        "type": "module"
+      },
+      {
+        "id": "simplefog",
+        "type": "module"
+      },
+      {
+        "id": "simple-message-window",
+        "type": "module"
+      },
+      {
+        "id": "smarttarget",
+        "type": "module"
+      },
+      {
+        "id": "sp-resizer",
+        "type": "module"
+      },
+      {
+        "id": "statuscounter",
+        "type": "module"
+      },
+      {
+        "id": "token-action-hud-bcdice",
+        "type": "module"
+      },
+      {
+        "id": "token-action-hud-core",
+        "type": "module"
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module"
+      }
+    ]
+  },
+  "manifest": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v12/world.json",
+  "download": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v12/world.zip"
+}
