@@ -39,7 +39,8 @@ FVTTの「ワールド」の「ワールドを入手」ウィンドウで、「U
 - Card Hand Mini Toolbar
 - Card Tokens (v11, v12)
 - Cautious Gamemaster's Pack
-- Chat Edit
+- Chat Edit (v11, v12)
+- Chat Edit Anduril (v13)
 - Combat Enhancements
 - Complete Card Management (v13)
 - Cut-in Manager
@@ -64,3 +65,6 @@ FVTTの「ワールド」の「ワールドを入手」ウィンドウで、「U
 - Token Action HUD BCDice
 - Token Action HUD Core
 - Tokenizer: The Token Editor
+
+## 対応バージョンごとの差異
+- v11ではエフェクト（Active Effect）は機能しません。
