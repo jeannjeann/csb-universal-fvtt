@@ -11,14 +11,14 @@
   ],
   "url": "https://github.com/jeannjeann/csb-universal-fvtt",
   "readme": "README.md",
-  "version": "12.1.0.0",
-  "coreVersion": "12.343",
+  "version": "13.1.0.0",
+  "coreVersion": "13.350",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.343",
-    "maximum": "12"
+    "minimum": "13",
+    "verified": "13.350",
+    "maximum": "13"
   },
-  "systemVersion": "4.8.5",
+  "systemVersion": "5.0.1",
   "relationships": {
     "requires": [
       {
@@ -73,19 +73,19 @@
         "type": "module"
       },
       {
-        "id": "card-tokens",
-        "type": "module"
-      },
-      {
         "id": "CautiousGamemastersPack",
         "type": "module"
       },
       {
-        "id": "chatedit",
+        "id": "chatedit-new",
         "type": "module"
       },
       {
         "id": "combat-enhancements",
+        "type": "module"
+      },
+      {
+        "id": "complete-card-management",
         "type": "module"
       },
       {
@@ -182,6 +182,6 @@
       }
     ]
   },
-  "manifest": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v12/world.json",
-  "download": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v12/world.zip"
+  "manifest": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v13/world.json",
+  "download": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v13/world.zip"
 }
