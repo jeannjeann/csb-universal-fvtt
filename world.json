@@ -11,14 +11,14 @@
   ],
   "url": "https://github.com/jeannjeann/csb-universal-fvtt",
   "readme": "README.md",
-  "version": "12.1.0.0",
-  "coreVersion": "12.343",
+  "version": "11.1.0.0",
+  "coreVersion": "11.315",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.343",
-    "maximum": "12"
+    "minimum": "11",
+    "verified": "11.315",
+    "maximum": "11"
   },
-  "systemVersion": "4.8.5",
+  "systemVersion": "3.2.5",
   "relationships": {
     "requires": [
       {
@@ -56,10 +56,6 @@
       },
       {
         "id": "lib-wrapper",
-        "type": "module"
-      },
-      {
-        "id": "lib-dfreds-ui-extender",
         "type": "module"
       },
       {
@@ -106,11 +102,13 @@
       },
       {
         "id": "illandril-chat-enhancements",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/illandril/FoundryVTT-chat-enhancements/releases/download/v2.2.0/module.json"
       },
       {
         "id": "illandril-token-tooltips",
-        "type": "module"
+        "type": "module",
+        "manifest": "https://github.com/illandril/FoundryVTT-token-tooltips/releases/download/v3.10.3/module.json"
       },
       {
         "id": "monks-active-tiles",
@@ -182,6 +180,6 @@
       }
     ]
   },
-  "manifest": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v12/world.json",
-  "download": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v12/world.zip"
+  "manifest": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v11/world.json",
+  "download": "https://github.com/jeannjeann/csb-universal-fvtt/releases/download/v11/world.zip"
 }
