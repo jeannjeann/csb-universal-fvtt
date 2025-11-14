@@ -24,6 +24,7 @@ FVTTの「ワールド」の「ワールドを入手」ウィンドウで、「U
 
 ### 必須モジュール
 - 日本語化（オンセ工房FoundryVTT本体）
+- 日本語化（Custom System Builder） (v12, v13)
 - CSB汎用ワールド辞典：このワールド用の各種データの入った辞典
 - BCDice for Foundry VTT
 - Chat Commander

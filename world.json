@@ -11,7 +11,7 @@
   ],
   "url": "https://github.com/jeannjeann/csb-universal-fvtt",
   "readme": "README.md",
-  "version": "12.1.0.0",
+  "version": "12.1.0.1",
   "coreVersion": "12.343",
   "compatibility": {
     "minimum": "12",
@@ -32,6 +32,10 @@
       },
       {
         "id": "foundryVTTja",
+        "type": "module"
+      },
+      {
+        "id": "custom-system-builder-ja",
         "type": "module"
       },
       {
