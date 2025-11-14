@@ -1,3 +1,15 @@
-2025/11/06-15:29:52.332 c138 Recovering log #18
-2025/11/06-15:29:52.338 c138 Delete type=0 #18
-2025/11/06-15:29:52.339 c138 Delete type=3 #16
+2025/11/14-09:29:30.155 d8f0 Recovering log #26
+2025/11/14-09:29:30.162 d8f0 Delete type=0 #26
+2025/11/14-09:29:30.162 d8f0 Delete type=3 #23
+2025/11/14-09:29:47.149 4c80 Level-0 table #33: started
+2025/11/14-09:29:47.153 4c80 Level-0 table #33: 1239 bytes OK
+2025/11/14-09:29:47.156 4c80 Delete type=0 #31
+2025/11/14-09:29:47.157 4c80 Manual compaction at level-0 from '!settings!0N7KIswCHicC9Y6G' @ 72057594037927935 : 1 .. '!settings!zYv5oUBlZALjt4it' @ 0 : 0; will stop at (end)
+2025/11/14-09:29:47.157 4c80 Manual compaction at level-1 from '!settings!0N7KIswCHicC9Y6G' @ 72057594037927935 : 1 .. '!settings!zYv5oUBlZALjt4it' @ 0 : 0; will stop at '!settings!uRoKuCNCvMn9s6nv' @ 338 : 1
+2025/11/14-09:29:47.157 4c80 Compacting 1@1 + 1@2 files
+2025/11/14-09:29:47.161 4c80 Generated table #34@1: 306 keys, 38287 bytes
+2025/11/14-09:29:47.161 4c80 Compacted 1@1 + 1@2 files => 38287 bytes
+2025/11/14-09:29:47.163 4c80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/14-09:29:47.163 4c80 Delete type=2 #29
+2025/11/14-09:29:47.165 4c80 Delete type=2 #33
+2025/11/14-09:29:47.166 4c80 Manual compaction at level-1 from '!settings!uRoKuCNCvMn9s6nv' @ 338 : 1 .. '!settings!zYv5oUBlZALjt4it' @ 0 : 0; will stop at (end)

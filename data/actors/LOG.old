@@ -1,7 +1,15 @@
-2025/11/06-15:14:34.350 438 Recovering log #12
-2025/11/06-15:14:34.359 438 Delete type=0 #12
-2025/11/06-15:14:34.360 438 Delete type=3 #10
-2025/11/06-15:29:15.539 cd0c Level-0 table #17: started
-2025/11/06-15:29:15.543 cd0c Level-0 table #17: 52067 bytes OK
-2025/11/06-15:29:15.545 cd0c Delete type=0 #15
-2025/11/06-15:29:15.552 cd0c Manual compaction at level-0 from '!actors!FDff439kuVFoMHez' @ 72057594037927935 : 1 .. '!actors!St4DLnvaD2VdhYx7' @ 0 : 0; will stop at (end)
+2025/11/14-09:26:56.734 d834 Recovering log #19
+2025/11/14-09:26:56.743 d834 Delete type=0 #19
+2025/11/14-09:26:56.744 d834 Delete type=3 #18
+2025/11/14-09:27:21.073 dee8 Level-0 table #23: started
+2025/11/14-09:27:21.076 dee8 Level-0 table #23: 8622 bytes OK
+2025/11/14-09:27:21.078 dee8 Delete type=0 #21
+2025/11/14-09:27:21.079 dee8 Manual compaction at level-0 from '!actors!FDff439kuVFoMHez' @ 72057594037927935 : 1 .. '!actors!St4DLnvaD2VdhYx7' @ 0 : 0; will stop at (end)
+2025/11/14-09:27:21.079 dee8 Manual compaction at level-1 from '!actors!FDff439kuVFoMHez' @ 72057594037927935 : 1 .. '!actors!St4DLnvaD2VdhYx7' @ 0 : 0; will stop at '!actors!St4DLnvaD2VdhYx7' @ 22 : 1
+2025/11/14-09:27:21.079 dee8 Compacting 1@1 + 1@2 files
+2025/11/14-09:27:21.084 dee8 Generated table #24@1: 2 keys, 8622 bytes
+2025/11/14-09:27:21.084 dee8 Compacted 1@1 + 1@2 files => 8622 bytes
+2025/11/14-09:27:21.086 dee8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/14-09:27:21.086 dee8 Delete type=2 #17
+2025/11/14-09:27:21.088 dee8 Delete type=2 #23
+2025/11/14-09:27:21.101 dee8 Manual compaction at level-1 from '!actors!St4DLnvaD2VdhYx7' @ 22 : 1 .. '!actors!St4DLnvaD2VdhYx7' @ 0 : 0; will stop at (end)

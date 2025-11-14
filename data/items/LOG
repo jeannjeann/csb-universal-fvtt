@@ -1,3 +1,8 @@
-2025/11/06-15:29:52.226 c138 Recovering log #16
-2025/11/06-15:29:52.232 c138 Delete type=0 #16
-2025/11/06-15:29:52.233 c138 Delete type=3 #14
+2025/11/14-09:29:30.046 de48 Recovering log #22
+2025/11/14-09:29:30.054 de48 Delete type=0 #22
+2025/11/14-09:29:30.055 de48 Delete type=3 #20
+2025/11/14-09:29:47.114 4c80 Level-0 table #28: started
+2025/11/14-09:29:47.114 4c80 Level-0 table #28: 0 bytes OK
+2025/11/14-09:29:47.116 4c80 Delete type=0 #26
+2025/11/14-09:29:47.127 4c80 Manual compaction at level-0 from '!items!0xmzEkOgx1tydWGW' @ 72057594037927935 : 1 .. '!items!wCx2DTF4FPD54uAI' @ 0 : 0; will stop at (end)
+2025/11/14-09:29:47.127 4c80 Manual compaction at level-1 from '!items!0xmzEkOgx1tydWGW' @ 72057594037927935 : 1 .. '!items!wCx2DTF4FPD54uAI' @ 0 : 0; will stop at (end)
